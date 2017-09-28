@@ -4,7 +4,7 @@ While exploring new ideas for adding security to Internet protocols and Web form
 
 Recommendations from the TAG on How to Make the Web More Secure
 
-The [http://www.w3.org/2001/tag/2013/10/whiteboard-security.jpg](list from our f2f meeting in Cambridge Mass) was:
+The [list from our f2f meeting in Cambridge Mass](http://www.w3.org/2001/tag/2013/10/whiteboard-security.jpg) was:
 
 1. Perfect Forward Secrecy over HTTPS
 
@@ -14,7 +14,7 @@ Perfect forward secrecy is a techinque which employees a different public key fo
 
 3. Certificate Pinning
 
-As described [https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning here], certificate pinning is the process of associating a host with their expected X509 certificate or public key.
+As described [here](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning), certificate pinning is the process of associating a host with their expected X509 certificate or public key.
 
 4. Versions
 
@@ -22,7 +22,7 @@ Up-to-date versions of security algorithms should always be employed.
 
 5. HSTS
 
-[http://tools.ietf.org/html/rfc6797 HTTP Strict Transport Security] is a proposed approach for web sites to declare that they may only be accessed via secure connections. 
+[HTTP Strict Transport Security](http://tools.ietf.org/html/rfc6797) is a proposed approach for web sites to declare that they may only be accessed via secure connections. 
 
 6. Employ Encryptions in More Cases (“Crypto all the things”)
 
