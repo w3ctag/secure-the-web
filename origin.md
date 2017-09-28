@@ -1,3 +1,7 @@
+# NOTE: The TAG has discontinued work on this document
+## See also: https://www.w3.org/2001/tag/doc/web-https
+
+
 # Same Oirign Not Considered Harmful
 
 "Same origin" works well.
