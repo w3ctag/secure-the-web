@@ -1,3 +1,6 @@
+# NOTE: The TAG has discontinued work on this document
+## See also: https://www.w3.org/2001/tag/doc/web-https
+
 Using Existing Technologies to Make the Web More Secure
 
 While exploring new ideas for adding security to Internet protocols and Web formats and languages, it's useful to examine what current mechanisms exist to add security to existing Web transactions.  The following practices are currently being used on some high-volume production Web sites, but the whole Web would benefit from their adoption in more places and in more scenarios, especially when confidentiality is desirable. Currently some of these techniques may not have come into wide use due to cost to implement or a perception that the majority of users are using browsers that do not support them. However, with the increased industry attention on security and anti-snooping, and considerting that most modern browsers have implemented these techniques, adoption should be widely encouraged.
